@@ -1,0 +1,21 @@
+C:\Users\yk0225jc\source\repos\TestPart3\TestPart3\bin\Debug\TestPart3.exe.config
+C:\Users\yk0225jc\source\repos\TestPart3\TestPart3\bin\Debug\TestPart3.exe
+C:\Users\yk0225jc\source\repos\TestPart3\TestPart3\bin\Debug\TestPart3.pdb
+C:\Users\yk0225jc\source\repos\TestPart3\TestPart3\obj\Debug\TestPart3.csprojAssemblyReference.cache
+C:\Users\yk0225jc\source\repos\TestPart3\TestPart3\obj\Debug\TestPart3.csproj.CoreCompileInputs.cache
+C:\Users\yk0225jc\source\repos\TestPart3\TestPart3\obj\Debug\TestPart3.exe
+C:\Users\yk0225jc\source\repos\TestPart3\TestPart3\obj\Debug\TestPart3.pdb
+C:\Users\jayzh\OneDrive - MNSCU\CIS 414\TestPart3\TestPart3\bin\Debug\TestPart3.exe.config
+C:\Users\jayzh\OneDrive - MNSCU\CIS 414\TestPart3\TestPart3\bin\Debug\TestPart3.exe
+C:\Users\jayzh\OneDrive - MNSCU\CIS 414\TestPart3\TestPart3\bin\Debug\TestPart3.pdb
+C:\Users\jayzh\OneDrive - MNSCU\CIS 414\TestPart3\TestPart3\obj\Debug\TestPart3.csprojAssemblyReference.cache
+C:\Users\jayzh\OneDrive - MNSCU\CIS 414\TestPart3\TestPart3\obj\Debug\TestPart3.csproj.CoreCompileInputs.cache
+C:\Users\jayzh\OneDrive - MNSCU\CIS 414\TestPart3\TestPart3\obj\Debug\TestPart3.exe
+C:\Users\jayzh\OneDrive - MNSCU\CIS 414\TestPart3\TestPart3\obj\Debug\TestPart3.pdb
+C:\Users\yk0225jc\OneDrive - MNSCU\CIS 414\TestPart3\TestPart3\bin\Debug\TestPart3.exe.config
+C:\Users\yk0225jc\OneDrive - MNSCU\CIS 414\TestPart3\TestPart3\bin\Debug\TestPart3.exe
+C:\Users\yk0225jc\OneDrive - MNSCU\CIS 414\TestPart3\TestPart3\bin\Debug\TestPart3.pdb
+C:\Users\yk0225jc\OneDrive - MNSCU\CIS 414\TestPart3\TestPart3\obj\Debug\TestPart3.csprojAssemblyReference.cache
+C:\Users\yk0225jc\OneDrive - MNSCU\CIS 414\TestPart3\TestPart3\obj\Debug\TestPart3.csproj.CoreCompileInputs.cache
+C:\Users\yk0225jc\OneDrive - MNSCU\CIS 414\TestPart3\TestPart3\obj\Debug\TestPart3.exe
+C:\Users\yk0225jc\OneDrive - MNSCU\CIS 414\TestPart3\TestPart3\obj\Debug\TestPart3.pdb
